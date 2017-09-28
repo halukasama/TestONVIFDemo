@@ -1,0 +1,16 @@
+dom.c
+duration.c
+duration.h
+onvif_ptz.c
+onvif_client.c
+onvif_muticast.c
+onvif_config.c
+onvif_osd.c
+
+soapC.c
+soapClient.c
+soapH.h
+soapStub.h
+stdsoap2.c
+stdsoap2.h
+wsdd.h
